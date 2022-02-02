@@ -25,4 +25,7 @@ This repository was written for mac os, but installation on other operating syst
 ## reading
 
 * Following this article: [dotnet --list-sdk](https://aws.amazon.com/blogs/developer/update-new-net-deployment-experience/). Only touches on the dotnet tool. Not super useful.
-* https://github.com/aws/aws-dotnet-deploy - this is more fleshed out, uses CDK behind the scenes.
+* https://github.com/aws/aws-dotnet-deploy - this is more fleshed out, uses CDK behind the scenes. Very basic setup, but works.
+* https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-csharp.html - basic principles of cdk, not very useful from the hot swapping perspective.
+* https://docs.aws.amazon.com/cdk/api/v2/dotnet/api/index.html - reference. Not tremendously useful to begin with.
+* https://cdkworkshop.com/40-dotnet.html - basic, not very useful.
